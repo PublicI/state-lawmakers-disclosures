@@ -4,14 +4,14 @@
 This spreadsheet contains data collected from the personal financial disclosure reports of 6,933 state legislators as well as metadata from the [National Institute on Money in State Politics](https://www.followthemoney.org) (NIMSP). The data covers the 2015 calendar year, though in a small number of cases that information was unavailable. In those cases, the data covers the most recent prior report available for that lawmaker.
 
 ## Data dictionary
-**record_id**: a unique ID that identifies each lawmaker-employer/business interest relationship
-**lawmaker_id**: an ID unique to each lawmaker, provided by NIMSP
-**lawmaker**: a lawmaker’s name
-**state**: a lawmaker’s state
-**body**: a lawmaker’s chamber
-**district**: a lawmaker’s district
-**employer_business_interest**: a lawmaker’s salaried employment, business ownership and rental income. This does not include stocks, bonds, pensions or Social Security. In some cases, we were unable to determine whether a job or business belong to a legislator or a legislator’s family member; in such cases we included the information in our dataset.
-**industry**: the industry category of the employer or business interest, using criteria developed by NIMSP
+**record_id**: a unique ID that identifies each lawmaker-employer/business interest relationship  
+**lawmaker_id**: an ID unique to each lawmaker, provided by NIMSP  
+**lawmaker**: a lawmaker’s name  
+**state**: a lawmaker’s state  
+**body**: a lawmaker’s chamber  
+**district**: a lawmaker’s district  
+**employer_business_interest**: a lawmaker’s salaried employment, business ownership and rental income. This does not include stocks, bonds, pensions or Social Security. In some cases, we were unable to determine whether a job or business belong to a legislator or a legislator’s family member; in such cases we included the information in our dataset.  
+**industry**: the industry category of the employer or business interest, using criteria developed by NIMSP  
 **disclosure_report**: the URL to a lawmaker’s personal financial disclosure forms
 
 ## Note
