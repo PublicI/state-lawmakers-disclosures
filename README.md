@@ -1,6 +1,6 @@
 # state-lawmakers-disclosures
 
-## About this data
+## About this data release
 This spreadsheet contains data collected from the personal financial disclosure reports of 6,933 state legislators as well as metadata from the [National Institute on Money in State Politics](https://www.followthemoney.org) (NIMSP). The records in this dataset cover the 2015 calendar year, though in a small number of cases that information was unavailable. In those cases, the records cover the most recent prior report available for that lawmaker. Some lawmakers may no longer be in office.
 
 
