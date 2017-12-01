@@ -5,7 +5,7 @@ This spreadsheet contains data collected from the personal financial disclosure 
 
 
 ## Data dictionary
-**record_id**: a unique ID that identifies each lawmaker-employer/business interest relationship  
+**cpi_id**: a unique ID that identifies each lawmaker-employer/business interest relationship  
 **lawmaker_id**: an ID unique to each lawmaker, provided by NIMSP  
 **lawmaker**: a lawmaker’s name  
 **state**: a lawmaker’s state, provided by NIMSP  
