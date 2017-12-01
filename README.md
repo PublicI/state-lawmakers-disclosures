@@ -11,7 +11,7 @@ This spreadsheet contains data collected from the personal financial disclosure 
 **state**: a lawmaker’s state, provided by NIMSP  
 **body**: a lawmaker’s chamber, provided by NIMSP  
 **district**: a lawmaker’s district, provided by NIMSP  
-**employer_business_interest**: a lawmaker’s salaried employment, business ownership and rental income (This does not include stocks, bonds, pensions or Social Security. In some cases, we were unable to determine whether a job or business belong to a legislator or a legislator’s family member; in such cases we included the information in our dataset.)
+**employer_business_interest**: a lawmaker’s salaried employment, business ownership and rental income (This does not include stocks, bonds, pensions or Social Security. In some cases, we were unable to determine whether a job or business belong to a legislator or a legislator’s family member; in such cases we included the information in our dataset.)  
 **industry**: the industry category of the employer or business interest, using criteria developed by NIMSP  
 **disclosure_report**: the URL to a lawmaker’s personal financial disclosure forms
 
