@@ -1,4 +1,4 @@
-# state-lawmakers-disclosures
+# State lawmakers disclosures
 
 [Download the data](https://github.com/PublicI/state-lawmakers-disclosures/archive/master.zip)
 
